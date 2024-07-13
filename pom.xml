@@ -16,7 +16,7 @@
 	<description>Demo project for migrating Monolith to Microservices</description>
 	<properties>
 		<java.version>17</java.version> <!-- Actualizado a 17 para coincidir con el JDK en GitHub Actions -->
-		<!-- Properties para SonarCloud -->
+		<!-- SonarCloud properties -->
 		<sonar.organization>ortdevops-g12</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
